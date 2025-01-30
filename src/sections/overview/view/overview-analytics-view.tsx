@@ -20,7 +20,7 @@ export function OverviewAnalyticsView() {
   return (
     <DashboardContent maxWidth="xl">
       <Typography variant="h4" sx={{ mb: { xs: 3, md: 5 } }}>
-        Hola, bienvenido de nuevo a ICC👋
+        Bienvenido Dashboard ICC
       </Typography>
 
       <Grid container spacing={3}>

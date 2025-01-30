@@ -18,16 +18,7 @@ export const navData = [
     path: '/user',
     icon: icon('ic-user'),
   },
-  {
-    title: 'Product',
-    path: '/products',
-    icon: icon('ic-cart'),
-    info: (
-      <Label color="error" variant="inverted">
-        +3
-      </Label>
-    ),
-  },
+
   {
     title: 'Blog',
     path: '/blog',

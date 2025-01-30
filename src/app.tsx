@@ -19,7 +19,7 @@ export default function App() {
     <Fab
       size="medium"
       aria-label="Github"
-      href="https://github.com/minimal-ui-kit/material-kit-react"
+      href=""
       sx={{
         zIndex: 9,
         right: 20,
@@ -31,7 +31,7 @@ export default function App() {
         color: 'common.white',
       }}
     >
-      <Iconify width={24} icon="eva:github-fill" />
+      <Iconify width={24} icon="" />
     </Fab>
   );
 
